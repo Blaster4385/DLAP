@@ -17,8 +17,8 @@
     "ffmpeg-static": "^5.1.0",
     "i18next": "^22.4.5",
     "i18next-fs-backend": "^2.1.0",
-    "music-metadata": "^8.1.0",
-    "sodium": "^3.0.2"
+    "libsodium-wrappers": "^0.7.11",
+    "music-metadata": "^8.1.0"
   },
   "devDependencies": {
     "eslint": "^8.20.0",
